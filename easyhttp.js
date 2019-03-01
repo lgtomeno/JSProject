@@ -1,13 +1,3 @@
-/**
- * EasyHTTP Library
- * Library for making HTTP requests
- *
- * @version 3.0.0
- * @author  Brad Traversy
- * @license MIT
- *
- **/
-
  class EasyHTTP {
   // Make an HTTP GET Request 
   async get(url) {
