@@ -20,5 +20,5 @@ git push -u origin <clone url>
 Run in browser:  
 Use vsc 
 Right click in index.html  
-Oen with Live Server  
+Open with Live Server  
 
