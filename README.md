@@ -16,3 +16,9 @@ git add .
 git commit -m 'init commit'  
 git remote add orig  
 git push -u origin <clone url>  
+
+Run in browser:  
+Use vsc 
+Right click in index.html  
+Oen with Live Server  
+
