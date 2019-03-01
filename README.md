@@ -17,6 +17,11 @@ git commit -m 'init commit'
 git remote add orig  
 git push -u origin <clone url>  
 
+Edit project:  
+use git bash
+cd JSProject  
+code .  
+
 Run in browser:  
 Use vsc 
 Right click in index.html  
