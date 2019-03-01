@@ -1,3 +1,6 @@
+ // fetch API is for fetching resources
+ // it is like XMLHttpRequest but more powerful and flexible
+
  class EasyHTTP {
   // Make an HTTP GET Request 
   async get(url) {
